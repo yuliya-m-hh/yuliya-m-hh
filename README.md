@@ -25,9 +25,11 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python)
-![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-blue?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=CSS3)
 
 <h3 align="left">Visitors:</h3>
 
