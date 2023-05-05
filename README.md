@@ -21,11 +21,14 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/yuliyamessaoudi/" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="yuliyamessaoudi" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools:
+
+<h3 align="left">Languages and Tools:</h3>
+
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<h3 align="left">Visitors:</h3>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yuliya-m-hh)
