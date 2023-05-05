@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
