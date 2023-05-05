@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Yuliya from Hamburg 👋</h1>
-<h3 align="center">I have completed a Data Science & Analytics Bootcamp at neuefische</h3>
+<h3 align="center">I have completed a Data Science & Analytics Bootcamp at ![neuefische](https://www.neuefische.de/)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
