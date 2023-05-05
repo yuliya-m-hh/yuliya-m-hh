@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**
 ![Python](https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-horizontal.svg)
+https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-horizontal.svg
+
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git)
